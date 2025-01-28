@@ -1,1 +1,1 @@
-# ex-k2
+echo hallo ik hoop dat het examen goed gaat.
